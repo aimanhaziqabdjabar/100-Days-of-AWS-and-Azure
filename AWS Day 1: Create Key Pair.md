@@ -95,20 +95,8 @@ aws ec2 create-key-pair \
     --query 'KeyMaterial' \
     --output text > devops-kp.pem
 
-What this command does?
 
-1. Creates a new key pair in AWS
-2. Retrieves the private key material
-3. Saves the key locally as:
-
-**devops-kp.pem**
 
 ----
-**🔐 Secure the Private Key**
-
-To ensure proper security, restrict the file permissions so only the owner can read it.
-
-chmod 400 devops-kp.pem
 
 This prevents unauthorized users from accessing the private key.
-
