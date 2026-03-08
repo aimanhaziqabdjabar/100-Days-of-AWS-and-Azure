@@ -175,13 +175,3 @@ ssh -i devops-kp.pem ec2-user@54.123.45.67
 * Linux File Permissions
 
 ---
-
-✅ Lepas fix ni:
-
-* Code block akan **render betul di GitHub**
-* Section nampak **clean macam documentation**
-* Senarai **lebih professional**
-
----
-
-Kalau kau nak, aku juga boleh **upgrade README ni lagi** supaya nampak **macam real DevOps project** (ada **Table of Contents + AWS architecture diagram + badges**) — benda ni memang buat repo nampak **lebih strong bila recruiter tengok GitHub**.
