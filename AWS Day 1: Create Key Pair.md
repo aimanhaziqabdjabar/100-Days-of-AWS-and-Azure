@@ -97,8 +97,6 @@ aws ec2 create-key-pair \
 
 
 
-----
-
 ### What This Command Does
 
 The command above performs the following actions:
