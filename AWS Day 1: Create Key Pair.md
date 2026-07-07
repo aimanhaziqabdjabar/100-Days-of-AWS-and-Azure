@@ -78,19 +78,6 @@ This file can only be downloaded once. Losing it will require generating a new k
 
 <img width="1673" height="915" alt="Screenshot 2026-02-23 000149" src="https://github.com/user-attachments/assets/84168a25-a695-4ab4-a100-4ede63aed686" />
 
----
-
-Masalah utama dalam Markdown kau ialah:
-
-1. **Code block tak ditutup** (missing ```).
-2. Beberapa command tak dalam **code block**.
-3. Senarai tak guna **numbering / bullet**.
-4. `devops-kp.pem` tak guna **inline code**.
-5. Tajuk kecil tak konsisten.
-
-Aku dah **betulkan semuanya** supaya GitHub render cantik dan professional.
-
----
 
 # 💻 Method 2: AWS CLI
 
